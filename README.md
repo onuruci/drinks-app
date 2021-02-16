@@ -1,3 +1,6 @@
+Built this web app with using TheCocktailDB. I made it in order to improve myself on React.
+# Live Preview : https://onuruci.github.io/drinks-app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
